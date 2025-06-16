@@ -8,5 +8,6 @@ public class Q32_CountDigits {
             count++;
         }
         System.out.println("Digits: " + count);
+        sc.close();
     }
 }
